@@ -1,0 +1,12 @@
+* {
+    text-align: center;
+}
+.root-header, .list-header, h1{
+    color: red; 
+    background-color: black;
+}
+.recipe-list, ul, ol{
+    color: black;
+    background-color: yellow; 
+}
+
